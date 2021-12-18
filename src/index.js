@@ -1,4 +1,4 @@
-const versionOfOS = 'win11';
+const versionOfOS = 'win10';
 const fs = require('fs');
 const express = require('express');
 const app = express();
