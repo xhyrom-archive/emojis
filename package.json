@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
-    "hyttpo": "^0.3.1"
+    "hyttpo": "^0.3.3"
   }
 }
